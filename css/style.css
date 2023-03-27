@@ -310,7 +310,7 @@ a:focus {
 .header {
     position: relative;
     background: #ffffff;
-}
+} 
 
 .header .content-inner { 
     padding: 100px 30px;
@@ -809,7 +809,7 @@ a:focus {
     color: #222222;
     font-size: 16px;
     font-weight: 600;
-    background: rgba(255, 111, 97, .5);
+    background: rgba(243, 173, 255, 0.751);
     border-radius: 0;
 }
 
